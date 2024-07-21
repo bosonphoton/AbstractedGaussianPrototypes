@@ -1,7 +1,8 @@
 ### Abstracted Gaussian Prototypes for One Shot Concept Learning 
 
-- All questions are stored in folder "Final Question Sets"
-- Visual turing test responses stored in "vtt.csv"
+- All visual turing test questions are stored in folder "Final Question Sets"
+- Visual turing test judge raw responses are stored in "vtt.csv"
+- Data analysis code in "Visual_Turing_Tests_Data.ipynb"
 
 \
 Main Code
