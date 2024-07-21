@@ -4,7 +4,7 @@
 - Visual turing test judge raw responses are stored in "vtt.csv"
 - Data analysis code in "Visual_Turing_Tests_Data.ipynb"
 
-\
+
 ## Main Code
 - Classification Tasks: "Classification_Task.ipynb"
 - Generative Tasks: "Generative_Task.ipynb"
