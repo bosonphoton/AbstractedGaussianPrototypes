@@ -1,4 +1,4 @@
-### Abstracted Gaussian Prototypes for One Shot Concept Learning 
+### Abstracted Gaussian Prototypes for One Shot Concept Learning (Omniglot Challenge)
 
 - All visual turing test questions are stored in folder "Final Question Sets"
 - Visual turing test judge raw responses are stored in "vtt.csv"
